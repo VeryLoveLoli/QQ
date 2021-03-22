@@ -1,0 +1,6 @@
+framework module QQ {
+  umbrella header "QQ.h"
+
+  export *
+  module * { export * }
+}
