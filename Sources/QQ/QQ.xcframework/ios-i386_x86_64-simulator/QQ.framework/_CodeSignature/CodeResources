@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/QQApiInterface.h</key>
 		<data>
-		7HkKpKY8QXVgq0BNxLXv4RxUpJo=
+		K0iTDgV7YoHABS/U/npv8fgZy80=
 		</data>
 		<key>Headers/QQApiInterfaceObject.h</key>
 		<data>
-		iyny3rdAW35wzzqjlVcptowBofI=
+		PbI603ikkV3aAm4Jyq23Z1lDUxk=
 		</data>
 		<key>Headers/TencentOAuth.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/sdkdef.h</key>
 		<data>
-		Uw5jzJCA+0ReixhGSqgjrUuzVgQ=
+		wIrVcNZoAaROQ0THU6Em7mEnock=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -50,22 +50,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7HkKpKY8QXVgq0BNxLXv4RxUpJo=
+			K0iTDgV7YoHABS/U/npv8fgZy80=
 			</data>
 			<key>hash2</key>
 			<data>
-			xg9xicMRSpBc3krGPfxtmOmWg6rReQe++WgwhuKMbnE=
+			8FuAO3YN3WKYWz20jwnQ3tYMLWfiUloPZwsxHZkQANM=
 			</data>
 		</dict>
 		<key>Headers/QQApiInterfaceObject.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iyny3rdAW35wzzqjlVcptowBofI=
+			PbI603ikkV3aAm4Jyq23Z1lDUxk=
 			</data>
 			<key>hash2</key>
 			<data>
-			bvtJBfUMHxOayn5n1/4akSP1GQ71wj4Ha12Cy4KfDQ0=
+			wr2PPVDV6LTLVQmjxmM7h7cssOr3NEhDOut7gk9SL5A=
 			</data>
 		</dict>
 		<key>Headers/TencentOAuth.h</key>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Uw5jzJCA+0ReixhGSqgjrUuzVgQ=
+			wIrVcNZoAaROQ0THU6Em7mEnock=
 			</data>
 			<key>hash2</key>
 			<data>
-			1BHwoGFNGNKzbDv0e4R3RBN+WFs9YN9zNwFwAH6vVCo=
+			Jgi/RS0rX5wm0d/Ieo/x0A5DTRNnqFTx4VFH4lIepJQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

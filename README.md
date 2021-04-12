@@ -1,6 +1,6 @@
 # QQ
 
-QQ SDK XCFramework SwiftPackage
+QQ 3.5.3.62 SDK XCFramework SwiftPackage
 
 ### 工程引用
 在 `Link Binary With Libraries` 添加 `CoreTelephony.framework`、`libc++.tbd`、`libsqlite3.tbd`、`libz.tbd`、`libiconv.tbd`
